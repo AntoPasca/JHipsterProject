@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "it.apasca",
+      "nativeLanguage": "it"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "SimpleTest",
+    "packageName": "it.apasca",
+    "packageFolder": "it/apasca",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTA1Y2Y4MTZmYWIwOWMyYmFmZGQyNDM4ZTE4NzM0ZWQ3OTg1MzkxMDU5MGQyMTg0YTc5ZWRiYjU1M2E5YWE0MThmYTI0M2VjNWNlOTM4MDgwNWYwNTJiMzY1MmNiZDA0YjlhNjAxOTIxOTYwYmI3YjBkMGZlZGM2ZTIzMTI1MDI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cyborg",
+    "clientThemeVariant": "light",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "it",
+    "languages": [
+      "it"
+    ],
+    "blueprints": []
+  }
+}
